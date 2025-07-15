@@ -1,5 +1,5 @@
 ## Hi, I'm Ayushi ✨
-🔭 I’m a passionate developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a passionate developer,tech enthusiast who loves building cool things and exploring world of code.<br>👯Currently 🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
