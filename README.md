@@ -1,7 +1,7 @@
 ## Hi, I'm Ayushi ✨
 🔭 I’m a passionate developer, tech enthusiast who loves building cool things and exploring world of code.<br>
 👩‍💻 Currently learning:<br>
--Full Stack Development(MERN Stack)<br>
+-Full Stack Java Development(React+Spring)<br>
 -Data Structures and Algorithms<br>
 🧠 I enjoy solving DSA challenges and crafting smooth user experiences with modren frontend tools.<br>
 
